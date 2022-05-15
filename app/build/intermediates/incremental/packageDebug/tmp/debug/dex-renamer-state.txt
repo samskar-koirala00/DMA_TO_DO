@@ -1,0 +1,7 @@
+#Sun May 15 21:35:02 NPT 2022
+base.0=F\:\\DMA_c7227200\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\DMA_c7227200\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
