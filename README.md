@@ -48,7 +48,7 @@ You can logout using the Logout button which will save all your tasks in your ac
 * `MainActivityViewModel` <br>
 
 ## Features
-Sign-IN                   |  Register                    | Adding Task 
+Sign-IN                                                                                                        |  Register                                                                                                                                                            | Adding Task 
 ![login](https://user-images.githubusercontent.com/50354345/168484285-bf0e3cfa-f311-45b0-a42f-0a900c7352c6.gif)|![registration](https://user-images.githubusercontent.com/50354345/168484306-f66bcd6a-2cc2-479d-80c9-2f788f8fae67.gif)|![add list](https://user-images.githubusercontent.com/50354345/168484253-698ff41d-3d51-4149-a60c-cac0075aee03.gif)|
 
 
