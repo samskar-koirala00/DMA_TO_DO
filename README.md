@@ -13,9 +13,9 @@ After creating a Todo Item, Now click on the create and Create your Todo Items.
 Click on the Todo Item to update and edit it.
 #### ***6 Deleting the todo items and Undo if you mistakenly deleted it:***.
 You can swipe to delete the todo-list items and snackbar shows undo to undelete the item.
-#### ***7 Deleting all List item***.
+#### ***7 Deleting all List item***:
 You can delete all the taks by clicking upon the menu option/more option near logout which will provide you delete all task options.
-#### ***8 Logout Button***.
+#### ***8 Logout Button***:
 You can logout using the Logout button which will save all your tasks in your account only.
 
 ---
@@ -38,14 +38,6 @@ You can logout using the Logout button which will save all your tasks in your ac
 -`Screens` consists all the screens i.e addeditTask, login, menu, splash, tasks <br>
 
 
-
-# `ViewModel`
-* `LoginRegisterViewModel`  <br>
-* `LogoutViewModel` <br>
-* `AddEditTaskViewModel` <br>
-* `SplashViewModel` <br>
-* `DeleteAllTasksViewModel` <br>
-* `MainActivityViewModel` <br>
 
 ## Features
 Sign-IN                   |  Register                    | Adding Task
