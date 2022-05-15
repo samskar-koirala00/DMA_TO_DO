@@ -3,7 +3,7 @@
 ## About the Installation of the Todo App
 #### *** 1 Register and Sign Up:***
 Fill in the Information that is required in Register and Sign Up.
-#### *** 2 Login:***
+#### ***2 Login:***
 After Filling up the register form and signing Up, Login with the same credentials.
 ##### ***3 Todo List:***
 Click on the floating Add icon on the bottom right of the screen and create a task you want to track with its required infos
