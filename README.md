@@ -11,7 +11,7 @@ Click on the floating Add icon on the bottom right of the screen and create a ta
 After creating a Todo Item, Now click on the create and Create your Todo Items.
 #### ***5 Editing the Todo Items:***
 Click on the Todo Item to update and edit it.
-#### ***6 Deleting the todo items and Undo if you mistakenly deleted it ***.
+#### ***6 Deleting the todo items and Undo if you mistakenly deleted it:***.
 You can swipe to delete the todo-list items and snackbar shows undo to undelete the item.
 #### ***7 Deleting all List item***.
 You can delete all the taks by clicking upon the menu option/more option near logout which will provide you delete all task options.
