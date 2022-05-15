@@ -2068,10 +2068,6 @@
         "source": "C:\\Users\\dell\\.gradle\\caches\\transforms-2\\files-2.1\\5d52d9573d8a8f70a8462cc8f8a42ce9\\material-1.1.0\\res\\layout\\mtrl_calendar_month_navigation.xml"
     },
     {
-        "merged": "F:\\DMA_c7227200\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_assignment_return_24.xml.flat",
-        "source": "F:\\DMA_c7227200\\app\\src\\main\\res\\drawable\\ic_baseline_assignment_return_24.xml"
-    },
-    {
         "merged": "F:\\DMA_c7227200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\dell\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
